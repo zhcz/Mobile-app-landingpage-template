@@ -1,7 +1,7 @@
 app:
-  screenshots: Screenshots
-  description: Description
-  featured: Featured in
+  screenshots: 应用截图
+  description: 产品介绍
+  featured: 
 
 footer:
   copyright: Made with ZH by <a href="https://www.lintiebao.com" target="_blank">临帖宝</a>
