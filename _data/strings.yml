@@ -4,13 +4,13 @@ app:
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made with ZH by <a href="https://www.lintiebao.com" target="_blank">临帖宝</a>
   links:
-    - title: Github
+    - title: 
       url: https://github.com/sandoche/Mobile-app-landingpage-template
       target: _blank
-    - title: Donate
+    - title: 
       url: https://paypal.me/kanbanote
       target: _blank
-    - title: Privacy
+    - title: 
       url: /privacy
