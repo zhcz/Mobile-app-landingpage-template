@@ -1,13 +1,13 @@
 app:
   screenshots: 应用截图
   description: 产品介绍
-  featured: 
+  featured: 其他
 
 footer:
   copyright: Made with ZH by <a href="https://www.lintiebao.com" target="_blank">临帖宝</a>
   links:
-    - title: 
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+    - title: Blog
+      url: https://www.lintiebao.com
       target: _blank
     - title: 
       url: https://paypal.me/kanbanote
