@@ -1,14 +1,14 @@
 name: 临帖宝
-description: 免费书法临帖工具，不止于此！
+description: 好用的书法临帖工具
 full_description: '关于临帖宝APP<br>
 <br>- 精选高清古字帖书籍，并持续更新；
-<br>- 田楷词典，涵盖田英章楷书常用字；
+<br>- 书法字典，田英章楷书行书常用字；
 <br>- 导入本地书法图片，一键变高清；
 <br>- 超过10万首古诗词文，书法创作中的好帮手；
 <br>- 书法中常见异体字，一查便知；'
-android: https://lintiebao.com/
-iOS: https://lintiebao.com/
-web: https://lintiebao.com/
+android: 
+iOS: https://apps.apple.com/us/app/%E4%B8%B4%E5%B8%96%E5%AE%9D/id6739514280
+web: https://blog.lintiebao.cn/
 screenshots:
   - 1.png
   - 2.png
